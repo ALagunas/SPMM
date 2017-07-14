@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPMM</string>
+    <string name="username">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Enter</string>
+    <string name="background_title">Background</string>
+</resources>
